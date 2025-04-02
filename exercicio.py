@@ -9,5 +9,6 @@ senha = input("Digite sua senha: ")
  
 if login == login_cadastrado and senha == senha_cadastrada
     print("Bem vindo")
-else 
-    print('login ou senha invalidos: ")
+
+else: 
+    print("login ou senha invalidos: ")
