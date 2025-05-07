@@ -9,12 +9,9 @@ class pessoa():
     idade: int
     peso: float
     altura: float
-
-print("solicitando dados: ")
-nome = str(input("Digite seu nome: "))
-idade = int(input("Digite sua idade: "))
-peso = float(input("Digite seu peso:"))
-altura = float(input("Digite sua altura: "))
+    
+    nome
+    
 
 pessoa1 = pessoa(nome=nome, idade=idade, peso=peso, altura=altura)
 pessoa2 = pessoa(nome, idade, peso, altura)
