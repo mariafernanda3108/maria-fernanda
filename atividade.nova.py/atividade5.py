@@ -60,7 +60,7 @@ with open(nome_arquivo, "a", enconding="utf-8") as arquivo_funcionarios:
         print("\t\nSalvando . . .")
 try:   
     with open(nome_arquivo, "r", enconding="utf-8") as arquivo: 
-    linhas = arquivo.readlines()
+        linhas = arquivo.readlines()
     for linha in linhas:
             print(f"{linha.strip()}")
                   
