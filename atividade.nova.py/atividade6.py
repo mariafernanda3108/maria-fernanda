@@ -48,7 +48,7 @@ def main():
             novo_funcionario = cadastrar_funcionario()
             funcionarios.append(novo_funcionario)
             print("Funcionário cadastrado com sucesso!")
-        elif opcao == "2":
+        elif opcao == "2":\
             exibir_todos_funcionarios(funcionarios)
         elif opcao == "3":
             print("Saindo do sistema...")

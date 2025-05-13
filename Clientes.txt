@@ -1,0 +1,10 @@
+
+Nome do cliente:  maria
+Data de nascimento: 310806
+Endereço: plataforma]
+Nome do cliente: fernanda
+Data de nascimento: 310806
+Endereço: plataforma
+Nome do cliente: esdras
+Data de nascimento: 10608
+Endereço: pau miudo
